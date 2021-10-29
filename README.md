@@ -1,8 +1,8 @@
-# Hi I'm Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hola soy Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 💻☕ 
 
 Soy estudiante de sexto semestre de ingenieria Electronica y Telecomunicaciones De la Universidad del Cauca. Tengo una gran curiosidad por la ciberseguridad y es 
-lo que me ha motivado aprender autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
+lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
 descubrir nuevas tecnologias.
 
 
@@ -11,8 +11,9 @@ descubrir nuevas tecnologias.
 - 💞️ Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda. 
 - ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
 - 📫 How to reach me ...
+- ❤️ lenguaje favorito: python
 
-**Languages and Tools:**
+**Languajes y herramientas:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
