@@ -1,10 +1,12 @@
 # Hola soy Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 💻☕ 
-
+<br>
+<div align="justify">
 Soy estudiante de sexto semestre de ingenieria Electronica y Telecomunicaciones De la Universidad del Cauca. Tengo una gran curiosidad por la ciberseguridad y es 
 lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
 descubrir nuevas tecnologias.
-
+</div>
+</br>
 
 - 👀 Estoy interesado en el desarrollo mocvil
 - 🌱 Actualmente estoy aprendiendo kotlin
@@ -12,6 +14,7 @@ descubrir nuevas tecnologias.
 - ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
 - 📫 How to reach me <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
 - ❤️ lenguaje favorito: python
+
 
 **Languajes y herramientas:**
 
