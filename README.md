@@ -10,7 +10,7 @@ descubrir nuevas tecnologias.
 - 🌱 Actualmente estoy aprendiendo kotlin
 - 💞️ Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda. 
 - ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
-- 📫 How to reach me ...
+- 📫 How to reach me <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
 - ❤️ lenguaje favorito: python
 
 **Languajes y herramientas:**
