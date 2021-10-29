@@ -8,7 +8,7 @@ descubrir nuevas tecnologias.
 </div>
 </br>
 
-- 👀 Estoy interesado en el desarrollo mocvil
+- 👀 Estoy interesado en el desarrollo movil
 - 🌱 Actualmente estoy aprendiendo kotlin
 - 💞️ Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda. 
 - ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
