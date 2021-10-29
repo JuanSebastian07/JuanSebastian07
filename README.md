@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
 
-☕
+☕💻
 <br>
 Soy estudiante de sexto semestre de ingenieria Electronica y Telecomunicaciones De la Universidad del Cauca. Tengo una gran curiosidad por la ciberseguridad y es 
 lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
