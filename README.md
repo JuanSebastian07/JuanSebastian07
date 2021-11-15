@@ -1,7 +1,8 @@
 # Hola soy Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+<div>
 <img align="right" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
-
+</div>
 ☕💻
 <div>
 Soy estudiante de sexto semestre de ingenieria Electronica y Telecomunicaciones De la Universidad del Cauca. Tengo una gran curiosidad por la ciberseguridad y es 
