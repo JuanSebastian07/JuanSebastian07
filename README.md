@@ -11,12 +11,13 @@ lo que me ha motivado aprender y experimentar autodidactamente muchas de las tec
 descubrir nuevas tecnologias.
 </h4></div><br>
 
+<h4>
 - 👀 Estoy interesado en el desarrollo movil
 - 🌱 Actualmente estoy aprendiendo kotlin
 - 💞️ Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda. 
 - ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
 - 📫 como llegar a mi: <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
-
+</h4>
 
 **Lenguajes y herramientas:**
 
