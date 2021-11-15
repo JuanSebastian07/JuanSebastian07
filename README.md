@@ -8,7 +8,7 @@
 Soy estudiante de sexto semestre de ingenieria Electronica y Telecomunicaciones De la Universidad del Cauca. Tengo una gran curiosidad por la ciberseguridad y es 
 lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
 descubrir nuevas tecnologias.
-</div>
+</div><br>
 
 - 👀 Estoy interesado en el desarrollo movil
 - 🌱 Actualmente estoy aprendiendo kotlin
