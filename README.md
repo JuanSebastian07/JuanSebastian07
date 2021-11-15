@@ -1,7 +1,7 @@
 # Hola soy Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <div>
-<img align="center" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
+<img align="center" height="50" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
 </div>
 ☕💻
 <div><h4 text-align: justify>
