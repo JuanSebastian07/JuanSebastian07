@@ -1,7 +1,7 @@
-# Hola soy Juan Sebastian <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hola soy Juan Sebastian <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Hi.gif" width="30px"><img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Earth.gif" width="24px">
 
 <div>
-<img align="center" height="250" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
+<img align="center" height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Developer.gif"/>
 </div>
 ☕💻
 
