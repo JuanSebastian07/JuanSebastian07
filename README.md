@@ -5,7 +5,7 @@
 </div>
 ☕💻
 
-Soy estudiante de octavo semestre de ingenieria Electronica y Telecomunicaciones De la <a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b> Universidad del Cauca </b></a>. Tengo una gran curiosidad por la ciberseguridad y es 
+Soy estudiante de noveno semestre de ingenieria Electronica y Telecomunicaciones De la <a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b> Universidad del Cauca </b></a>. Tengo una gran curiosidad por la ciberseguridad y es 
 lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
 descubrir nuevas tecnologias.
 
