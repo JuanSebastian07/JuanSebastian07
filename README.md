@@ -27,9 +27,6 @@ This passion also led me to discover my love for programming. I truly enjoy cont
 <h3>🛠️ Languages & Tools:</h3>
 
 <p>
-  <h3>🛠️ Languages & Tools:</h3>
-
-<p>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
