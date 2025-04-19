@@ -3,6 +3,11 @@ A passionate Software Developer and Electronic & Telecommunications Engineer fro
 <div align="center">
   <img height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/spidertocat_bounce.gif"/>
 </div>
+<p align="center">
+  <img height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/spidertocat_bounce.gif"/>
+  <img height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/okal_eltocat_bounce.gif"/>
+</p>
+
 ☕💻
 I have completed all the courses for my degree in Electronic and Telecommunications Engineering at  
 <a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b>Universidad del Cauca</b></a>.
