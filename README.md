@@ -27,6 +27,9 @@ This passion also led me to discover my love for programming. I truly enjoy cont
 <h3>🛠️ Languages & Tools:</h3>
 
 <p>
+  <h3>🛠️ Languages & Tools:</h3>
+
+<p>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
@@ -34,10 +37,12 @@ This passion also led me to discover my love for programming. I truly enjoy cont
   <code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Jetpack_Compose_Logo.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/androiddevnotes/jetpack-compose-awesome/master/assets/jetpack_compose.png"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+</p>
+
 </p>
 
 
