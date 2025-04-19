@@ -1,7 +1,7 @@
 # Hello, I'm Juan Sebastian <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Hi.gif" width="30px"> <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Earth.gif" width="24px">
 A passionate Software Developer and Electronic & Telecommunications Engineer from Colombia.
-<div>
-<img align="center" height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/spidertocat_bounce.gif"/>
+<div align="center">
+  <img height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/spidertocat_bounce.gif"/>
 </div>
 ☕💻
 I have completed all the courses for my degree in Electronic and Telecommunications Engineering at  
