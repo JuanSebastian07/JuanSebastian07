@@ -1,21 +1,28 @@
-# Hola soy Juan Sebastian <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Hi.gif" width="30px"><img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Earth.gif" width="24px">
+# Hello, I'm Juan Sebastian <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Hi.gif" width="30px"> <img src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Earth.gif" width="24px">
+
+A passionate Software Developer and Electronic & Telecommunications Engineer from Colombia.
 
 <div>
 <img align="center" height="250" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/Developer.gif"/>
 </div>
 ☕💻
 
-He culminado todas las materias de la carrera de Ingeniería Electrónica y Telecomunicaciones De la <a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b> Universidad del Cauca </b></a>. Tengo una gran curiosidad por la ciberseguridad y es 
-lo que me ha motivado aprender y experimentar autodidactamente muchas de las tecnologias que hoy conozco y el amor por la progamacion, me fascina estar aprendiendo siempre y
-descubrir nuevas tecnologias.
+I have completed all the courses for my degree in Electronic and Telecommunications Engineering at  
+<a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b>Universidad del Cauca</b></a>.
 
-- 👀 Estoy interesado en el desarrollo movil
-- 🌱 Actualmente estoy aprendiendo kotlin
-- ⚡ Cita: La curiosidad intelectual es el elemento comun denominador de los mejores ingenieros
-- 📫 como llegar a mi: <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
+I have a deep curiosity for cybersecurity, which has motivated me to learn and experiment with many of the technologies I know today through self-teaching.  
+This passion also led me to discover my love for programming. I truly enjoy continuous learning and exploring new technologies.
 
+- 👀 I'm interested in mobile development  
+- 🌱 Currently learning Kotlin  
+- ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*  
+- 📫 How to reach me:  
+  <a title="telegram" href="https://t.me/Account07">
+    <img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg">
+  </a>
 
-**Lenguajes y herramientas:**
+**Languages & Tools:**
+
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
