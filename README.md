@@ -20,7 +20,7 @@ This passion also led me to discover my love for programming. I truly enjoy cont
 <p>
   <!-- Android Development First -->
   <code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-  <code><img height="40" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/jetpack_compose_icon.png"></code>
+  <code><img height="50" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/jetpack_compose_icon.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
   
