@@ -10,7 +10,6 @@ I have a deep curiosity for cybersecurity, which has motivated me to learn and e
 This passion also led me to discover my love for programming. I truly enjoy continuous learning and exploring new technologies.
 
 - 👀 I'm interested in mobile development  
-- 🌱 Currently learning Kotlin  
 - ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*  
 - 📫 How to reach me:  
   <a title="telegram" href="https://t.me/Account07">
