@@ -8,6 +8,7 @@ I have completed all the courses for my degree in Electronic and Telecommunicati
 <a href="http://www.unicauca.edu.co/versionP/node/18445" target="_blank"><b>Universidad del Cauca</b></a>.
 I have a deep curiosity for cybersecurity, which has motivated me to learn and experiment with many of the technologies I know today through self-teaching.  
 This passion also led me to discover my love for programming. I truly enjoy continuous learning and exploring new technologies.
+
 - 👀 I'm interested in mobile development  
 - 🌱 Currently learning Kotlin  
 - ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*  
