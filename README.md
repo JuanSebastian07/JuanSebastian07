@@ -11,21 +11,17 @@ I have a deep curiosity for cybersecurity, which has motivated me to learn and e
 This passion also led me to discover my love for programming. I truly enjoy continuous learning and exploring new technologies.
 
 - 👀 I'm interested in mobile development  
-- ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*  
+- ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*
 - 📫 How to reach me:  
-  <a title="telegram" href="https://t.me/Account07">
-    <img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg">
-  </a>
+  <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/juansebastian07/"><img height="18" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 
 <h3>🛠️ Languages & Tools:</h3>
 <p>
-  <!-- Android Development First -->
   <code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
   <code><img height="50" src="https://github.com/JuanSebastian07/JuanSebastian07/blob/main/Assets/jetpack_compose_icon.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
   
-  <!-- Other languages and tools -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
