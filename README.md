@@ -13,7 +13,7 @@ This passion also led me to discover my love for programming. I truly enjoy cont
 - 👀 I'm interested in mobile development  
 - ⚡ Quote: *Intellectual curiosity is the common denominator of the best engineers*
 - 📫 How to reach me:  
-  <a title="telegram" href="https://t.me/Account07"><img height="18" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/juansebastian07/"><img height="18" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+  <a title="telegram" href="https://t.me/Account07"><img height="30" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/juansebastian07/"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 
 <h3>🛠️ Languages & Tools:</h3>
 <p>
